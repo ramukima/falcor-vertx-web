@@ -3,6 +3,10 @@ Server middleware for falcor-vertx-web
 
 Working usage example of the basic repro in ramukima/falcor-vertx-web-demo
 
+Under Development Note
+======================
+Falcor vert.x integration is best done through the vert.x event bus (I am still working on it). Meanwhile, since there was a working example of falcor-express, I found it useful to have a falcor-vertx-web integration done directly. Once the integration with vert.x event bus is functional, that integration will be preferred over falcor-vertx-web.
+
 ## Usage
 
 Example of using a static model (for development purposes only)
